@@ -1,4 +1,4 @@
-project(TrainRemote)
+project(ImGuiApp)
 
 add_executable(
   ${PROJECT_NAME}

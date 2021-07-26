@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(TrainRemote_root)
+project(imgui_template)
 
 add_subdirectory(src)
