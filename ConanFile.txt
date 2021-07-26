@@ -1,0 +1,7 @@
+[requires]
+sdl/2.0.14
+glew/2.2.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
